@@ -1,0 +1,12 @@
+{
+  "name" : "Muntaham" ,
+  "customizations": {
+    "vscode": {
+      "extensions":[
+        "Github.copilot"
+      ]
+    }
+  }
+
+    
+  }
